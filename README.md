@@ -1,4 +1,4 @@
 please go to http://35.214.101.131:3000/
 
-login username : user
+login username : user@email.com
 login use password : userpassword
